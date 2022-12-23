@@ -56,7 +56,7 @@ export default {
 </script>
 
 <template>
-  <div class="container">
+  <div class="container login-container">
     <div class="top-content">
       <img
         src="https://www.intellectdesign.com/wp-content/uploads/2022/07/Intellect-logo-new-02.svg"
@@ -263,6 +263,9 @@ input[type="password"]:target ~ .input-label {
     margin-left: 10px;
     margin-right: 10px;
     max-width: 370px;
+  }
+  .login-container {
+    max-width: 290px !important;
   }
 }
 

@@ -8,13 +8,7 @@
     "user_role": "admin",
     "gender": "male",
     "dob": "29/10/1986",
-    "address": {
-      "no": 2,
-      "street": "Annanagar",
-      "city": "Chennai",
-      "state": "Tamilnadu",
-      "country": "Inida"
-    },
+
     "password": "123456789"
   },
   {
@@ -26,13 +20,7 @@
     "user_role": "user",
     "gender": "male",
     "dob": "29/11/1989",
-    "address": {
-      "no": 12,
-      "street": "Jungle",
-      "city": "Madurai",
-      "state": "Tamilnadu",
-      "country": "Inida"
-    },
+
     "password": "123456789"
   },
   {
@@ -44,13 +32,7 @@
     "user_role": "super_admin",
     "gender": "male",
     "dob": "29/04/1976",
-    "address": {
-      "no": 2,
-      "street": "Forest",
-      "city": "Trichy",
-      "state": "Tamilnadu",
-      "country": "Inida"
-    },
+
     "password": "123456789"
   },
   {
@@ -62,13 +44,7 @@
     "user_role": "admin",
     "gender": "male",
     "dob": "19/07/1996",
-    "address": {
-      "no": 2,
-      "street": "SS colony",
-      "city": "Covai",
-      "state": "Tamilnadu",
-      "country": "Inida"
-    },
+
     "password": "123456789"
   },
   {
@@ -80,13 +56,7 @@
     "user_role": 1,
     "gender": "female",
     "dob": "19/07/1996",
-    "address": {
-      "no": 2,
-      "street": "Annanagar",
-      "city": "Chennai",
-      "state": "Tamilnadu",
-      "country": "Inida"
-    },
+
     "password": "123456789"
   },
   {
@@ -98,13 +68,6 @@
     "user_role": "super_admin",
     "gender": "female",
     "dob": "11/05/1976",
-    "address": {
-      "no": 2,
-      "street": "Kavery",
-      "city": "kanyakumari",
-      "state": "Tamilnadu",
-      "country": "Inida"
-    },
     "password": "123456789"
   },
   {
@@ -116,13 +79,7 @@
     "user_role": "user",
     "gender": "female",
     "dob": "19/07/1996",
-    "address": {
-      "no": 2,
-      "street": "Gemini street",
-      "city": "sivakasi",
-      "state": "Tamilnadu",
-      "country": "Inida"
-    }
+    "password": "123456789"
   },
   {
     "id": 8,
@@ -133,13 +90,6 @@
     "user_role": "user",
     "gender": "female",
     "dob": "29/11/2000",
-    "address": {
-      "no": 2,
-      "street": "Tree street",
-      "city": "Salem",
-      "state": "Tamilnadu",
-      "country": "Inida"
-    },
     "password": "123456789"
   },
   {
@@ -151,13 +101,6 @@
     "user_role": "user",
     "gender": "male",
     "dob": "19/07/1996",
-    "address": {
-      "no": 2,
-      "street": "Annanagar",
-      "city": "Chennai",
-      "state": "Tamilnadu",
-      "country": "Inida"
-    },
     "password": "123456789"
   },
   {
@@ -169,13 +112,6 @@
     "user_role": "admin",
     "gender": "female",
     "dob": "19/07/1996",
-    "address": {
-      "no": 2,
-      "street": "karam",
-      "city": "Chennai",
-      "state": "Tamilnadu",
-      "country": "Inida"
-    },
     "password": "123456789"
   },
   {
@@ -187,13 +123,6 @@
     "user_role": "user",
     "gender": "male",
     "dob": "21/01/1990",
-    "address": {
-      "no": 2,
-      "street": "hhhh",
-      "city": "xxxx",
-      "state": "Tamilnadu",
-      "country": "Inida"
-    },
     "password": "123456789"
   }
 ]

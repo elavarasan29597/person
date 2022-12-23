@@ -265,7 +265,7 @@ input[type="password"]:target ~ .input-label {
     max-width: 370px;
   }
   .login-container {
-    max-width: 290px !important;
+    max-width: 300px !important;
   }
 }
 

@@ -12,7 +12,7 @@ export default defineConfig({
     },
   },
   // publicPath: "/person/",
-  base: "/person/",
+  base: "/persons-list/",
   build: {
     outDir: "./docs",
   },

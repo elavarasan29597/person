@@ -11,7 +11,6 @@ export default defineConfig({
       "@": fileURLToPath(new URL("./src", import.meta.url)),
     },
   },
-  // publicPath: "/person/",
   base: "/persons-list/",
   build: {
     outDir: "./docs",

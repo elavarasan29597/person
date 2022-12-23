@@ -1,9 +1,7 @@
-import { createRouter, createWebHistory } from "vue-router";
-// import {Vue} from "vue";
+import { createRouter, createWebHashHistory } from "vue-router";
 
 const router = createRouter({
-  history: createWebHistory(),
-  // history: createWebHistory(import.meta.env.BASE_URL),
+  history: createWebHashHistory(),
   routes: [
     {
       path: "/login",
